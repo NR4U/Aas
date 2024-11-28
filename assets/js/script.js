@@ -76,9 +76,9 @@ getSurah()
 
 
 function playsurah(surahMp3) {
-    const playaudio = docxument.querySelector("#audio")
-    playaudio.src = surahMp3 ;
-    playaudio.play()
+    const audioplyer = document.querySelector("#audioplyer")
+    audioplyer.src = surahMp3;
+    audioplyer.play();
 }
 
 

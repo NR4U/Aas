@@ -108,8 +108,8 @@ img {
 }
 
 :root{
-  --color-1:#a58e0b ;
-  --color-2:#fff ;
+  --color-1:#bc7a0f ;
+  --color-2:#ffffff ;
 
 }
 
@@ -1112,12 +1112,7 @@ Footer Style
 --------------------------------------------- 
 */
 
-footer {
-  background: rgb(125,90,254);
-  background: linear-gradient(132deg, rgba(125,90,254,1) 25%, rgba(160,84,244,1) 100%);
-  text-align: center;
-  padding: 25px 0px;
-}
+
 
 footer p {
   color: var(--color-2);
@@ -1171,7 +1166,7 @@ Page Heading Style
 }
 
 .page-heading span {
-  color: #8a75da;
+  color: #ffffff;
   font-size: 15px;
 }
 
